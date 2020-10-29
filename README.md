@@ -3,6 +3,11 @@ GIS content, articles, posts and resources, based on the schema provided by Pedr
 
 [Below here, in Spanish]
 
+## Tema 0: Introducción
+
+ - Conceptos cartográficos del IGN (Instituto Geográfico Nacional)
+   https://www.ign.es/web/resources/cartografiaEnsenanza/conceptosCarto/descargas/Conceptos_Cartograficos_def.pdf
+
 ## Tema 1: ¿Qué son los SIG
 
 ¿Qué tiene de especial lo espacial?
